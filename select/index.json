@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Echoes Beyond",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-03-06T07:04:58.551117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waking Up the Echoes",
+      "artist": "American Aquarium",
+      "has_synced": false,
+      "path": "select/01_Waking_Up_the_Echoes_American_Aquarium.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ride (Echoes Remix Clean Radio)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_Ride_(Echoes_Remix_Clean_Radio)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Echoes Of Mine",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/03_Echoes_Of_Mine_M83.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Echoes (feat. Py)",
+      "artist": "ODESZA feat. Py",
+      "has_synced": true,
+      "path": "select/04_Echoes_(feat._Py)_ODESZA_feat._Py.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Echoes (feat. Py)",
+      "artist": "Odesza",
+      "has_synced": true,
+      "path": "select/05_Echoes_(feat._Py)_Odesza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/06_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Echoes",
+      "artist": "FM Attack",
+      "has_synced": true,
+      "path": "select/07_Echoes_FM_Attack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Echoes of Tragedy",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/08_Echoes_of_Tragedy_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Echoes Of Love",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/09_Echoes_Of_Love_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born in the Echoes",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/10_Born_in_the_Echoes_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Echoes in the Dark",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/11_Echoes_in_the_Dark_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Echoes On Ice",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/12_Echoes_On_Ice_Piano_Magic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Echoes Beyond",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_Echoes_Beyond_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
